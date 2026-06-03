@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'BCCPurno';
+  src: url('https://tanjumshakib.github.io/web-fonts/BCC%20Purno.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'BCCPurno', sans-serif;
+}
+
+.post-body {
+  font-family: 'BCCPurno', sans-serif;
+}
